@@ -41,7 +41,8 @@ Include the files needed to understand, modify, and rebuild the project:
 - Keil project files (`.uvproj` or `.uvprojx`)
 - Required configuration files
 - HEX firmware files (`.hex`) when required by the assignment
-- This README and the repository's `.gitignore`
+- The repository's `.gitignore`
+- A README.md with links to redirect to each TASK directory 
 
 Generated object files, listing files, build logs, and personal IDE settings should generally be excluded.
 
@@ -108,7 +109,7 @@ Desktop.ini
 
 This configuration deliberately does **not** ignore `.hex` files, allowing required firmware files to be tracked.
 
-Review the rules for your particular assignment. Some project settings or generated files may be required by your evaluator.
+Review the rules for your particular assignment. Some project settings or generated files may be required.
 
 ### 5. Check Which Files Git Will Track
 
@@ -148,7 +149,7 @@ git commit -m "Add 8051 assignment"
 
 Staging and committing save a version of your project in the local Git repository. They do not upload it to GitHub.
 
-### 7. Publish the Repository to GitHub (Optional)
+### 7. Publish the Repository to GitHub 
 
 To make the repository available online:
 
