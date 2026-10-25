@@ -1,0 +1,24 @@
+# Keil generated listing files
+**/Listings/
+
+# Keil generated object and build files
+**/Objects/*.obj
+**/Objects/*.lst
+**/Objects/*.m51
+**/Objects/*.abs
+**/Objects/*.omf
+**/Objects/*.lnp
+**/Objects/*.build_log.htm
+**/Objects/LED_BLINK_plzwork
+**/Objects/LED_BLINK_plzwork1
+
+# User-specific Keil settings
+*.uvgui
+*.uvgui.*
+*.uvopt
+*.uvoptx
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
